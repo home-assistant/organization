@@ -1,2 +1,2 @@
 # organization
-A repository for discussing the organizational matters of Home Assistant
+A repository for discussing the organizational matters of the Home Assistant organization.
